@@ -179,9 +179,9 @@ java -cp "bin;lib/mysql-connector-j-9.5.0.jar" LibraryLoginPage
 
 You can include screenshots here after running the UI:
 
-![Login Page]()
-![Dashboard]()
-![Add Book Page]()
+![Login Page](./screenshot/login-page.png)
+![Dashboard](./screenshot/dashboard.png)
+![Add Book Page](./screenshot/add-new-book.png)
 
 ---
 
